@@ -1,1 +1,1 @@
-# Splash Screen Veta.LK
+# Veta App Splash Screen
